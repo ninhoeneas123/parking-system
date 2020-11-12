@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    height: 90px;
+}
+.title{
+    position: relative;
+    text-align: center;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+.title h2{
+    font-size: 50px;
+}
+label {
+    font-weight: bolder;
+}
